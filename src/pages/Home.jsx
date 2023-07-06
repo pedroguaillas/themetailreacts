@@ -16,7 +16,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="container mx-auto">
+      <div className="container mx-auto xl:px-4">
         <Header />
         {/* <section className="grid grid-cols-1  sm:grid-flow-col sm:grid-cols-min content-stretch "> */}
         <section className="grid grid-cols-1 sm:grid-cols-[18rem_auto]">
